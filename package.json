@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "npm --prefix calculator-backend start"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
